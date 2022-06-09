@@ -1,0 +1,18 @@
+---
+title: "Azharul Islam"
+---
+
+I am a doctoral student studying the political economy of East Asia and US.  My research topic is on rent-seeking behaviors in last two decades
+
+### More Information
+
+Interests:
+
+  * Data Science 
+  * Time series modeling
+
+### Contact me
+
+[johndoe@utdallas.edu](mailto:johndoe@utdallas.edu)
+
+[Website](https://johndoe.github.io) 
